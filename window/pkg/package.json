@@ -1,0 +1,14 @@
+{
+  "name": "window",
+  "version": "0.1.0",
+  "files": [
+    "window_bg.wasm",
+    "window.js",
+    "window.d.ts"
+  ],
+  "module": "window.js",
+  "types": "window.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
