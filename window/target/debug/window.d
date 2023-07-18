@@ -1,0 +1,1 @@
+/Users/timpokanai/Desktop/collision-detection/window/target/debug/window: /Users/timpokanai/Desktop/collision-detection/window/src/lib.rs /Users/timpokanai/Desktop/collision-detection/window/src/main.rs

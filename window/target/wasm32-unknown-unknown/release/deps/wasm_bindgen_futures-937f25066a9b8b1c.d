@@ -1,0 +1,9 @@
+/Users/timpokanai/Desktop/collision-detection/window/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-937f25066a9b8b1c.rmeta: /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/timpokanai/Desktop/collision-detection/window/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-937f25066a9b8b1c.rlib: /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/timpokanai/Desktop/collision-detection/window/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-937f25066a9b8b1c.d: /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs:
+/Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs:
+/Users/timpokanai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs:
